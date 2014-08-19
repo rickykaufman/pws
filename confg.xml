@@ -16,10 +16,10 @@
     </description>
 
     <author href="https://www.podiatrywebsolutions.com" email="info@podiatrywebsolutions.com">
-        Hardeep Shoker 
+        Podiatry Web Solutions LLC
     </author>
 
-</widget>
+
 <gap:platform name="ios" />
 <gap:platform name="android" />
 <preference name="Orientation" value="portrait" />
@@ -66,3 +66,4 @@
 <!-- Retina iPad -->
 <gap:splash src="splash/Default-Portrait@2x.png" gap:platform="ios" width="1536" height="2048" />
 
+</widget>
